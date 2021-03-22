@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+}
+
+.container {
+    width: 1170px;
+    margin: auto;
+    background-color: #fff;
+    padding: 50px 10px 15px 10px;
+    font-family: Helvetica;
+}
+
+.title {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background: url(../img/img1.jpeg);
+    
+}
+
+header {
+    padding-bottom: 30px;
+}
+
+.topic {
+    font-size: 32px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.one {
+    background: mediumspringgreen;
+}
+
+.two {
+    background: lightcoral;
+}
+
+.three {
+    background: skyblue;
+}
+
+figcaption {
+    font-weight: bold;
+    padding: 10px 0;
+
+} 
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+.description {
+    padding-bottom: 20px;
+}
